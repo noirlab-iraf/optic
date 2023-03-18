@@ -1,0 +1,8 @@
+# Global environment definitions for the package.
+
+reset	opticbin		= "optic$bin(arch)/"
+reset	opticsrc		= "optic$src/"
+reset	opticlib		= "optic$lib/"
+reset	pkglibs			= "opticbin$"
+
+keep

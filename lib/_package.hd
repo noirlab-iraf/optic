@@ -1,0 +1,7 @@
+# Help definitions for the package.
+
+optic		men = optic.men,
+		hlp = ..,
+		sys = package.hlp,
+		pkg = optic.hd,
+		src = optic.cl

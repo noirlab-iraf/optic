@@ -1,0 +1,9 @@
+# Help directory for the OPTIC package.
+
+$doc = "./doc/"
+$src = "./src/"
+
+revisions	sys=src$Revisions
+
+optichdr	hlp=doc$optichdr.hlp,		src=src$optichdr.cl
+opticsetinst	hlp=doc$opticsetinst.hlp,		src=src$opticsetinst.cl

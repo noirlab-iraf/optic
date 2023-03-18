@@ -1,0 +1,9 @@
+# Root task entry for the package help tree.  Defines `<package>'
+# as both a task and a package in the help database.
+
+optic		men  = optic$optic.men,
+		hlp  = optic$optic.men,
+		sys  = optic$package.hlp,
+		pkg  = optic$optic.hd,
+		src  = optic$optic.cl
+
